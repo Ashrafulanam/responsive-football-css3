@@ -114,6 +114,9 @@ p {
 .last .inner {
   padding: 10px;
 }
+.course-banner img {
+  width: 400px !important;
+}
 
 .button {
   background-color: #e02c6d;
